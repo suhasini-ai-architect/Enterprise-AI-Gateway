@@ -2,6 +2,22 @@
 
 **Guardian-Mesh** is a high-performance control plane designed to bridge the gap between AI innovation and enterprise security. It sits between your users and LLMs (Azure, AWS, GCP) to enforce safety, optimize costs, and provide visibility.
 
+---
+
+## Architecture Diagram
+
+![architecture](asset/architecture.png)
+
+---
+
+## Live Demo
+See the compliance audit in action:
+
+![Demo](./asset/Animation.gif)
+
+---
+
+
 ## 🌟 Key Pillars
 * **🛡️ Data Sovereignty:** Local PII scrubbing (emails, credentials) before cloud transmission.
 * **💰 FinOps Intelligence:** Semantic caching to eliminate redundant LLM API costs.

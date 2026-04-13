@@ -1,0 +1,24 @@
+# --- Security Perimeter ---
+# Databases (Matches both your files)
+guardian_mesh
+atm_logs
+*.db
+*.sqlite3
+
+# Environment & Secrets
+.env
+.streamlit/
+
+# Local Folders (Internal cache and logs)
+atm_cache/
+logs/
+
+# Python artifacts
+__pycache__/
+*.pyc
+.DS_Store
+
+# Virtual Environments
+venv/
+.venv/
+env/

@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+sqlmodel
+langgraph
+langchain-community
+streamlit
+python-dotenv

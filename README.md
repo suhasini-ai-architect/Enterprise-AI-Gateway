@@ -155,3 +155,10 @@ Planned enterprise extensions include:
 * Distributed logging and monitoring
 
  please contact me via  LinkedIn.https://www.linkedin.com/in/suhasini-k-1159353ba/
+
+
+ ---
+## 🔒 Repository Status
+The core algorithmic logic, agent state machines, and implementation code for this project are kept in a secure, private environment to protect the underlying intellectual property. 
+
+Live architectural walkthroughs, code quality reviews, and system demos are available upon request for technical evaluation.
